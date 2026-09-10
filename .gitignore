@@ -1,0 +1,37 @@
+# Unreal Engine
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+Build/
+.vs/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Visual Studio
+.vs/
+*.user
+*.ncb
+*.suo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Compiled files
+*.o
+*.obj
+*.exe
+*.dll
+*.pdb
+*.exp
+*.lib
+
+# Keep Content folder tracked via LFS
+# but ignore temp files
+Content/__ExternalActors__/
+Content/__ExternalObjects__/
